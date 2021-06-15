@@ -1,0 +1,324 @@
+/*    font-family: 'Bad Script', cursive;
+
+    font-family: 'Fredericka the Great', cursive;
+
+    font-family: 'Montserrat', sans-serif;*/
+
+body {
+    background-color: white;
+    background-image: url(../img/Rectangle.png);
+    background-image: url(../img/group.png);
+    background-repeat: no-repeat;
+    width: 1340px;
+}
+
+.wrapper {
+    
+}
+
+.header {
+    display: flex;
+    max-height: 175px;
+    justify-content: space-between;
+}
+
+.logotype {
+    margin-left: 55px;
+    margin-top: 25px;
+}
+
+.phone {
+    font-size: 12px;
+    display: flex;
+    margin-top: 25px;
+    margin-right: 55px;
+    max-width: 220px;
+    color: black;
+}
+
+.phonnum {
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    margin-right: 0px;
+}
+
+.underheader {
+    height: 10px;
+    margin-top: 15px;
+    display: flex;
+    margin-right: 0px;
+    justify-content: space-between;
+    max-width: 500px;
+    margin-left: 790px;
+     
+}
+
+.home {
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.ahref {
+    margin-right: 60px;
+}
+
+.wait {
+    display: flex;
+    max-height: 700px;
+}
+
+.dontwait {
+    /*background-image: url(../pasta1.png);*/
+    margin-top: 0px;
+    background-repeat: no-repeat;
+    width: 660px;
+}
+
+.leafh1 {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.hungry {
+    font-family: 'Bad Script', cursive;
+    font-size: 57px;
+    margin-left: 50px;
+}
+
+.h1wait {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 80px;
+    margin-left: 60px;
+}
+
+.backtext {
+    margin-top: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    margin-left: 135px;
+}
+
+.thismonday {
+    margin-top: 75px;
+    margin-left: 230px;
+}
+
+.hr {
+    max-width: 475px;
+}
+
+.pasta {
+    /*margin-left: 660px;*/
+    margin-top: 30px;
+}
+
+.choose {
+    height: 980px;
+}
+
+.choose-enjoy {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.good-product {
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+
+}
+
+.menu {
+    display: flex;
+    position: relative;
+    margin-top: 55px;
+    margin-left: 65px;
+    margin-right: 100px;
+}
+/*
+.strip {
+    height: 140px;
+    width: 1680px;
+    background-color: #e8e6a9;
+    margin-top: 370px;
+    position: absolute;
+    
+}*/
+
+.menu-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.menu1 {
+    
+}
+
+.order {
+    display: block;
+    text-align: center;
+    border: 1px solid #ffe001;
+    text-decoration: none;
+    background-color: #ffe001;
+    color: black;
+    padding: 15px 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    max-width: 200px;
+    
+    margin-top: 35px;
+    margin-left: 80px;
+}
+
+.menu-text-snack {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 120px;
+}
+
+.menu-text-salad {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 110px;
+}
+
+.upcomming {
+    height: 600px;
+    text-align: center;
+}
+
+.discover {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.upevents {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 42px;
+}
+
+.fotomenu {
+    display: flex;
+}
+
+.foto1 {
+    margin-left: 65px;
+}
+
+.foto1and2 {
+    margin-left: 45px;
+}
+
+.foto3 {
+    margin-top: 32px;
+}
+
+.forma {
+    height: 610px;
+}
+
+.formn {
+   width: 380px; 
+}
+
+.reservation {
+    text-align: center;
+    margin-top: 95px;
+    
+}
+
+.headreservation {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+}
+
+.book-table {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 50px;
+}
+/*
+.form {
+    height: 440px;
+    display: flex;
+    float: left;
+}
+
+.form1 {
+    width: 710px;
+    display: inline-block;
+    float: left;
+}*/
+
+.footer {
+    height: 580px;
+    background-image: url(../img/footer.png);
+    display: flex;
+}
+
+.food4you {
+    width: 615px;
+    margin-top: 65px;
+    margin-left: 80px;
+}
+
+.footertext {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 15px;
+    margin-top: 75px;
+    max-width: 515px;
+}
+
+.underfooter {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 13px;
+    margin-top: 175px;
+}
+
+.iconblock {
+    margin-top: 230px;
+    margin-left: 150px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+
+.icon-map {
+    height: 40px;
+}
+
+.map {
+    display: flex;
+}
+
+.email {
+    display: flex;
+}
+
+.email-icon {
+    height: 35px;
+    width: 40px;
+}
+
+.map-text {
+   margin-left: 35px; 
+}
+
+.emailext {
+   margin-left: 35px; 
+}
+
